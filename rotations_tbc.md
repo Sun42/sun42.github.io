@@ -28,9 +28,9 @@ Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un 
  - les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 + talent BM 1.20  => 1.38
 
  - Liens infos Theorycraft : 
-    https://diziet559.github.io/rotationtools/
-    https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles (Fait par le mec de tbc france kanja, plus ancien , moins précis mais en français et déjà une tres bonne base)
-    https://www.youtube.com/watch?v=VftjEOtSnxw
+    - https://diziet559.github.io/rotationtools/
+    - https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles (Fait par le mec de tbc france kanja, plus ancien , moins précis mais en français et déjà une tres bonne base)
+    - https://www.youtube.com/watch?v=VftjEOtSnxw
 
 
 
