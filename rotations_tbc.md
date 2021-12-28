@@ -36,51 +36,83 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Les rotations
 
+---------------------------------------------------------------------------------------
 ### Short french 5:4:1:1
 EWS: > 2.3 
 video: https://medal.tv/clips/61950854/d1337gVVSKXn
 note: La rotation de base sans hate pour Survie
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
+
 Auto - Tir assuré
+
 Auto - Tir assuré - Arcane
+
 Auto - Tir assuré - Tir assuré
 
 ---------------------------------------------------------------------------------------
-French 5:5:1:1 EWS: > 1.9 https://medal.tv/clips/61942946/d1337WDYME5x
+
+### French 5:5:1:1 
+EWS: > 1.9 
+video: https://medal.tv/clips/61942946/d1337WDYME5x
 note: La rotation de base sans hate pour BM.  Privilegier des armes >= 2.9 pour cette rotation.
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
+
 Auto - Tir assuré
+
 Auto - Tir assuré - Arcane
+
 Auto - Tir assuré
+
 Auto - Tir assuré
 
 ---------------------------------------------------------------------------------------
-Long French 5:6:1:1 EWS: 1.9 à 1.6 https://medal.tv/clips/61943682/d1337Rafg35L
+### Long French 5:6:1:1 
+EWS: 1.9 à 1.6 
+video :https://medal.tv/clips/61943682/d1337Rafg35L
 note: Quickshot proc
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - Arcane
+
 Auto - multi
+
 Auto - Tir assuré
+
 Auto - Tir assuré
+
 Auto - Tir assuré
+
 Auto - Tir assuré
 
 ---------------------------------------------------------------------------------------
-1:1 EWS: 1.6 à 1.3 https://medal.tv/clips/61943163/d1337JVMmMt4
+### 1:1 
+EWS: 1.6 à 1.3 
+video: https://medal.tv/clips/61943163/d1337JVMmMt4
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré
 
 ---------------------------------------------------------------------------------------
-2:3 (1.2 à 0.8) https://medal.tv/clips/61944048/d1337J1e8Eyu
+### 2:3 
+EWS: (1.2 à 0.8) 
+video: https://medal.tv/clips/61944048/d1337J1e8Eyu
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré
+
 Auto 
+
 Auto - Tir assuré
 
 ---------------------------------------------------------------------------------------
-1:2 < 0.8 ews
+### 1:2
+EWS: < 0.8s
+
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré
+
 Auto
