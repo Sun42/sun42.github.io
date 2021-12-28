@@ -1,4 +1,4 @@
-# Hunter TBC resources
+# Classic tbc hunter resources
 
 - [rotation](https://sun42.github.io/rotations_tbc.md)
 - [entrainements](https://sun42.github.io/hunt_training.md)
