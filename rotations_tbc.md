@@ -5,9 +5,9 @@ Le but est de placer le plus de sort entre les tirs auto en retardant le moins p
 
 Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun downtime (temps perdu à rien faire), ni clipping.
 
-Lorsque notre ews est plus lent que 1.5sec on va caler des sorts entre les tir assuré et les autoshots pour eviter les downtime.
+Lorsque notre ews est plus lent que 1.5s on va caler des sorts entre les tir assuré et les autoshots pour eviter les downtime.
 
-Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un tir assuré pour chaque tir automatique causera trop de clipping.
+Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir assuré pour chaque tir automatique causera trop de clipping.
 
 
 ## Divers en vrac:
@@ -25,7 +25,7 @@ Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un 
     Assuré : Auto :  Arcane : Multi
     5:4:1:1 (5 tir assuré pour 4 autos, 1 arcane, 1 multi)
     2:3 (2 tir assuré pour 3 autos)
- - les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 + talent BM 1.20  => 1.38
+ - les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 & talent BM 1.20  => 1.38
 
  - Liens infos Theorycraft : 
     - https://diziet559.github.io/rotationtools/
