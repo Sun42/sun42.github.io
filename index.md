@@ -1,9 +1,10 @@
 # Classic tbc hunter resources
 
-- [rotation](https://sun42.github.io/rotations_tbc.md)
-- [entrainements](https://sun42.github.io/hunt_training.md)
-- [macros](https://sun42.github.io/macros.md)
-- [wishlist](https://sun42.github.io/wishlist.md)
+- [rotation](https://sun42.github.io/rotations_tbc)
+- [entrainements](https://sun42.github.io/hunt_training)
+- [macros](https://sun42.github.io/macros)
+- [wishlist](https://sun42.github.io/wishlist)
+- [ui](https://sun42.github.io/ui)
 
 - [logs analyszer](https://ironforge.pro/analyzer/)
 - [strat](raidplan.io)
