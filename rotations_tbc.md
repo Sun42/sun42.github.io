@@ -1,4 +1,5 @@
 ## Intro
+
 Il existe différentes rotations en fonction de la vitesse d'attaque.
 
 Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
@@ -19,7 +20,6 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
  - Possible de downrank multishot rank 1 pour eco de la mana
  - Possible de ne faire que de la rotation 1:1 si problèmes de mana
  - EWS (effective weapon speed) : ranged weapon speed / 1.15 (carquois)/ 1.20 (talent BM)
- 
  - Nom des rotations INTERPRETE QU'EST-CE A DIRE QUE CECI
     Correspond au nombre de fois que le sort est utilisé dans le cycle
     Assuré : Auto :  Arcane : Multi
@@ -36,14 +36,9 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Les rotations
 
----------------------------------------------------------------------------------------
-### Short french 5:4:1:1
-
-EWS: > 2.3
-
-video: https://medal.tv/clips/61950854/d1337gVVSKXn
-
-note: La rotation de base sans hate pour Survie
+| Rotation | EWS | Video | note |
+| ------------- | ------------- |
+| Short french 5:4:1:1  | > 2.3  | https://medal.tv/clips/61950854/d1337gVVSKXn | La rotation de base sans hate pour Survie |
 
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
