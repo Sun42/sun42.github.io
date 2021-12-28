@@ -25,9 +25,9 @@
 ### Nourrir
 ```
 #showtooltip
-/cast [nocombat][pet]Nourrir le familier
-/use [nocombat][pet]Côtelettes de sabot-fourchu
-/use [nocombat][pet]Venaison de talbuk fumée
+/cast [nocombat][pet] Nourrir le familier
+/use [nocombat][pet] Côtelettes de sabot-fourchu
+/use [nocombat][pet] Venaison de talbuk fumée
 ```
 
 ### Retour sur perso
@@ -51,9 +51,9 @@
 ```
 /petattack [@mouseover, harm][]
 /cast Charge
-/cast [@mouseover, harm][harm]Célérité
+/cast [@mouseover, harm][harm] Célérité
 /cast [@mouseover, harm][harm] Plongeon
-/cast Ordre de tuer
+/cast [@pettarget,exists] Ordre de tuer
 ```
 
 ## Qualité de vie
@@ -61,7 +61,7 @@
 ### Aspects
 ```
 /cancelaura Aspect du guépard
-/cast [mod:shift] Aspect du singe; [mod:alt]  Aspect de la vipère; [mod:ctrl] Aspect du faucon; [nomod] Aspect du guépard;  Aspect de la vipère
+/cast [mod:shift] Aspect du singe; [mod:alt]  Aspect de la vipère; [mod:ctrl] Aspect du faucon; [nomod] Aspect du guépard
 ```
 
 ### Oeil de l'aigle (permet de les enchainer à la suite et de sedéplacer sur toute la carte)
@@ -176,7 +176,6 @@
 /cast Coupure d'ailes(rang 1)
 /startattack
 ```
-/macr
 
 ### TRANQ
 ```
