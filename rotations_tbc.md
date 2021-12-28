@@ -29,7 +29,7 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
  - Liens infos Theorycraft : 
     - https://diziet559.github.io/rotationtools/
-    - https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles (Fait par le mec de tbc france kanja, plus ancien , moins précis mais en français et déjà une tres bonne base)
+    - https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles
     - https://www.youtube.com/watch?v=VftjEOtSnxw
 
 
