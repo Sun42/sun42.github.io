@@ -1,3 +1,7 @@
+# Hunter TBC resources
+
+- [rotation](https://sun42.github.io/rotations_tbc.md)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sun42/sun42.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
