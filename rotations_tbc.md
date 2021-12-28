@@ -2,9 +2,12 @@
 Il existe différentes rotations en fonction de la vitesse d'attaque.
 
 Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
+
 Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun downtime (temps perdu à rien faire), ni clipping.
-Lorsque notre ews est plus lent que 1.5sec on va caler des sort entre les tir assuré et les autoshots pour eviter les downtime
-Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un tir assuré causera trop de clipping
+
+Lorsque notre ews est plus lent que 1.5sec on va caler des sorts entre les tir assuré et les autoshots pour eviter les downtime.
+
+Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un tir assuré pour chaque tir automatique causera trop de clipping.
 
 
 ## Divers en vrac:
