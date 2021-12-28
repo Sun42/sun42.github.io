@@ -1,7 +1,8 @@
 ## Intro
-Il existe différentes rotations en fonction de la vitesse d'attaque. 
-Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping)
-Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun 'downtime' (temps perdu à rien faire), ni clipping.
+Il existe différentes rotations en fonction de la vitesse d'attaque.
+
+Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
+Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun downtime (temps perdu à rien faire), ni clipping.
 Lorsque notre ews est plus lent que 1.5sec on va caler des sort entre les tir assuré et les autoshots pour eviter les downtime
 Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un tir assuré causera trop de clipping
 
@@ -12,10 +13,10 @@ Lorsque notre ews est plus rapide que 1.5 sec, il arrive un moment ou caster un 
  - GCD: 1.5s le gcd est constant, pas affecté par les buff de hâte, le temps de cast de l'auto et du tir assuré est affecté par la hâte
  - Dans les rotations simples ne comprenant pas de multi on peut remplacer un tir assuré par un multi pour plus de dps, si on est pas short en mana
  - Privilegier des armes >= 2.9 pour les rotations complexes
- - Possible de downrank multi rank 1 pour eco de la mana
+ - Possible de downrank multishot rank 1 pour eco de la mana
+ - Possible de ne faire que de la rotation 1:1 si problèmes de mana
  - EWS (effective weapon speed) : ranged weapon speed / 1.15 (carquois)/ 1.20 (talent BM)
- - Affichage de l'ews: https://wago.io/cvXaAvhF1  (c'est aussi affiché dans le panneau personnage -> A distance -> Vitesse)
- - Castbar + swing timer avec autoshot delay et gcd visuel https://wago.io/bNtdbWZ-W
+ 
  - Nom des rotations INTERPRETE QU'EST-CE A DIRE QUE CECI
     Correspond au nombre de fois que le sort est utilisé dans le cycle
     Assuré : Auto :  Arcane : Multi
@@ -75,7 +76,6 @@ Auto - Tir assuré
 
 ---------------------------------------------------------------------------------------
 1:2 < 0.8 ews
-
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré
 Auto
