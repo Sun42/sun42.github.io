@@ -19,11 +19,6 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
  - Possible de downrank multishot rank 1 pour eco de la mana
  - Possible de ne faire que de la rotation 1:1 si problèmes de mana
  - EWS (effective weapon speed) en secondes : ranged weapon speed / 1.15 (carquois)/ 1.20 (talent BM)
- - Nom des rotations INTERPRETE QU'EST-CE A DIRE QUE CECI
-    Correspond au nombre de fois que le sort est utilisé dans le cycle
-    Assuré : Auto :  Arcane : Multi
-    5:4:1:1 (5 tir assuré pour 4 autos, 1 arcane, 1 multi)
-    2:3 (2 tir assuré pour 3 autos)
  - Les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 & talent BM 1.20  => 1.38
 
 ## Ressources
@@ -35,6 +30,17 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Les rotations
 
+Nom des rotations Correspond au nombre de fois que le sort est utilisé dans le cycle
+
+  | Nom | Tir Assuré | Auto | Arcane | Multi |
+  | ---     | --- | --- | --- | --- |
+  | 5:4:1:1 | 5 | 4 | 1 | 1 |
+  | 5:5:1:1 | 5 | 5 | 1 | 1 |
+  | 5:6:1:1 | 5 | 6 | 1 | 1 |
+  | 1:1     | 1 | 1 |   |   |
+  | 2:3     | 2 | 3 |   |   |
+  | 1:2     | 1 | 2 |   |   |
+   
 ---------------------------------------------------------------------------------------
 
 | Nom                   | EWS     | Note                                      |
