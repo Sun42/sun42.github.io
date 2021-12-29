@@ -2,7 +2,10 @@ Tout est à faire avec des raccourcis clavier/souris, pas de clic
 
 ### Gestion du pet
 
-- [PET1](https://medal.tv/games/wow-classic/clips/75437955/d1337XV3cWJX?invite=cr-MSxuYzUsMjU1MzE2MjUs) Aller/retour du pet entre la cible et le perso sans toucher la cible 
+#### PET1 Aller/retour du pet entre la cible et le perso sans toucher la cible 
+
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56wRd7jKo66Yr/vpkJFOfzf?invite=cr-MSxlY1csMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
+
 
 - [PET2](https://medal.tv/games/wow-classic/clips/75438222/d1337soedC5S?invite=cr-MSwyVk8sMjU1MzE2MjUs) Comme pet 1, on ajoute un arrêt intermédiaire entre chaque Aller/retour (reste, /petstay)
 
