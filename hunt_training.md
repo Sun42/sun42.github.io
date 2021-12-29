@@ -1,6 +1,6 @@
 Tout est à faire avec des raccourcis clavier/souris, pas de clic
 
-## Gestion du pet
+## Contr du pet
 
 ### PET 1
 Aller/retour du pet entre la cible et le perso sans toucher la cible.
@@ -48,7 +48,8 @@ Comme deplacement 1 avec aller/retour du pet.
 Comme deplacement 2 avec aller/retour du pet.
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57hvlGBPJ8u3m/vp3dBpEXk?invite=cr-MSwzc0osMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-## Rotation
+## Rotations
 
-- [ROTATION1](https://medal.tv/games/wow-classic/clips/75602994/d133783JFKKT?invite=cr-MSxYdjEsMjU1MzE2MjUs) Rotation simple avec aller/retours simples
-
+### ROTATION 1
+Rotation simple avec aller/retours simples.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57dN8sLg_8FMm/vp4GIToaK?invite=cr-MSx3ZzEsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
