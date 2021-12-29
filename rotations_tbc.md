@@ -92,23 +92,23 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUfhKWIObzkT/vpryLy1bS?invite=cr-MSxJWDQsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-|  |  |
+|||
 | :--- | :--- |
 | Auto | Tir assuré |
 
 ---------------------------------------------------------------------------------------
-### 2:3
 
-EWS: (1.2 à 0.8)
+| Nom   | EWS          | Note           |
+| :---- | :----------- | :------------- |
+| 2:3   | 1.2 à 0.8s   ||
 
-video: https://medal.tv/clips/61944048/d1337J1e8Eyu
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUtyF5N3yr4L/vpVcGOgla?invite=cr-MSx5b3QsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
----------------------------------------------------------------------------------------
-Auto - Tir assuré
-
-Auto 
-
-Auto - Tir assuré
+|  |  |
+| :--- | :--- |
+| Auto | Tir assuré |
+| AUto | |
+| Auto | Tir assuré |
 
 ---------------------------------------------------------------------------------------
 ### 1:2
