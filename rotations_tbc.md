@@ -38,8 +38,8 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ---------------------------------------------------------------------------------------
 
-| Nom              | EWS    | Note                                           |
-| :-------------------- | :------ | :--------------------------------------- |
+| Nom                   | EWS     | Note                                      |
+| :-------------------- | :------ | :---------------------------------------- |
 | Short french 5:4:1:1  | > 2.3s  | La rotation de base sans hate pour Survie |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT' allow='autoplay' allowfullscreen></iframe>
@@ -53,9 +53,9 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ---------------------------------------------------------------------------------------
 
-| Nom              | EWS    | Note                                           |
-| :-------------------- | :------ |  :-------------------------------------- |
-| French 5:5:1:1  | 2.3s à 1.9s  | La rotation de base sans hate pour BM. Privilegier des armes >= 2.9 pour cette rotation. |
+| Nom                   | EWS          | Note                                                                                     |
+| :-------------------- | :------      |  :--------------------------------------                                                 |
+| French 5:5:1:1        | 2.3s à 1.9s  | La rotation de base sans hate pour BM. Privilegier des armes >= 2.9 pour cette rotation. |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clips/61942946/d1337WDYME5x' allow='autoplay' allowfullscreen></iframe>
 
