@@ -1,6 +1,8 @@
 Tout est à faire avec des raccourcis clavier/souris, pas de clic
 
+
 ## Contrôle du pet
+
 
 ---
 
@@ -31,6 +33,7 @@ On détermine un point d'ancrage, puis aller retour sur point d'ancrage.
 ### PET 5
 Aller/retour entre deux cibles sans changer de cible principale.
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56y5e7u6XpRfP/vpja9RBxZ?invite=cr-MSxiNjQsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
+
 
 ## Déplacements
 
@@ -70,7 +73,9 @@ Comme deplacement 1 avec aller/retour du pet.
 Comme deplacement 2 avec aller/retour du pet.
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57hvlGBPJ8u3m/vp3dBpEXk?invite=cr-MSwzc0osMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
+
 ## Rotations
+
 
 ---
 
