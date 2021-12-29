@@ -2,7 +2,7 @@
 
 Il existe différentes rotations en fonction de la vitesse d'attaque.
 
-Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
+Le but est de placer le plus de sorts entre les tirs auto en retardant le moins possible les tirs automatiques (clipping).
 
 Dans des conditions parfaites avec EWS de 1.5 secondes et on pourrait placer un tir assuré entre chaque autoshot sans aucun downtime (temps entre la fin d'un sort et le debut du tir automatique), ni clipping.
 
@@ -25,13 +25,13 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
     Assuré : Auto :  Arcane : Multi
     5:4:1:1 (5 tir assuré pour 4 autos, 1 arcane, 1 multi)
     2:3 (2 tir assuré pour 3 autos)
- - les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 & talent BM 1.20  => 1.38
+ - Les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 & talent BM 1.20  => 1.38
 
  - Liens infos Theorycraft : 
     - https://diziet559.github.io/rotationtools/
     - https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles
     - [enthozz rotation guide](https://www.youtube.com/watch?v=1QHxA6kZFVQ)
-    - [bigbobbedboi roation guide](https://www.youtube.com/watch?v=VftjEOtSnxw)
+    - [bigbobbedboi rotation guide](https://www.youtube.com/watch?v=VftjEOtSnxw)
 
 
 
