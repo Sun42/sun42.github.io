@@ -33,7 +33,7 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 Le nom des rotations représente le nombre de fois que le sort est utilisé dans le cycle
 
  | EWS    | Nom     | Tir Assuré | Auto | Arcane | Multi | Note |
- | -------| --------| ---------- | ---- | ------ | ----- | ---- |
+ | :------| --------| ---------- | ---- | ------ | ----- | ---- |
  | > 2.3s | 5:4:1:1 | 5 | 4 | 1 | 1 | La rotation de base pour spé survie |
  | De 2.3s à 1.9s | 5:5:1:1 | 5 | 5 | 1 | 1 | La rotation de base pour spé bm |
  | De 1.9s à 1.6s | 5:6:1:1 | 5 | 6 | 1 | 1 | BM avec proc quickshot |
