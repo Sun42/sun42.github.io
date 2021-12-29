@@ -68,26 +68,21 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 | Auto | Tir assuré ||
 
 ---------------------------------------------------------------------------------------
-### Long French 5:6:1:1
 
-EWS: 1.9 à 1.6
+| Nom                   | EWS          | Note           |
+| :-------------------- | :----------- | :------------- |
+| Long French 5:6:1:1   | 1.9 à 1.6    | Quickshot proc |
 
-video :https://medal.tv/clips/61943682/d1337Rafg35L
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUnEzkN_Ju00/vpqEbbQkG?invite=cr-MSxFZ3AsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-note: Quickshot proc
-
----------------------------------------------------------------------------------------
-Auto - Tir assuré - Arcane
-
-Auto - multi
-
-Auto - Tir assuré
-
-Auto - Tir assuré
-
-Auto - Tir assuré
-
-Auto - Tir assuré
+|  |  |  |
+| :--- | :--- | :--- |
+| Auto | Tir assuré   | Arcane |
+| Auto | Tir multiple ||
+| Auto | Tir assuré   || 
+| Auto | Tir assuré   ||
+| Auto | Tir assuré   ||
+| Auto | Tir assuré   ||
 
 ---------------------------------------------------------------------------------------
 ### 1:1
