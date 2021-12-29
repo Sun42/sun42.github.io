@@ -36,13 +36,11 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Les rotations
 
-| Rotation              | EWS    | Video                                        | note                                      |
-| --------------------- | :------ | -------------------------------------------- | ----------------------------------------  |
-| Short french 5:4:1:1  | > 2.3  | | La rotation de base sans hate pour Survie |
+| Rotation              | EWS    | note                                      |
+| --------------------- | :------ |  ----------------------------------------|
+| Short french 5:4:1:1  | > 2.3  | La rotation de base sans hate pour Survie |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT?invite=cr-MSxRNWQsNDIyNTEyODMs' allow='autoplay' allowfullscreen></iframe> 
-
-[!ROTATION1](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://medal.tv/games/wow-classic/clips/4bWfkIjMegxva/1uxqt83wHwjn?invite=cr-MSw5SlEsNDIyNTEyODMs)
 
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
