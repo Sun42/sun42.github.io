@@ -1,33 +1,54 @@
 Tout est à faire avec des raccourcis clavier/souris, pas de clic
 
-### Gestion du pet
+## Gestion du pet
 
-#### PET1 Aller/retour du pet entre la cible et le perso sans toucher la cible 
-
+### PET 1
+Aller/retour du pet entre la cible et le perso sans toucher la cible.
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56wRd7jKo66Yr/vpkJFOfzf?invite=cr-MSxlY1csMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
+### PET 2
+Comme pet 1, on ajoute un arrêt intermédiaire entre chaque aller/retour.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56wVwTi4CalkI/vpUEi13JR?invite=cr-MSw4UFYsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [PET2](https://medal.tv/games/wow-classic/clips/75438222/d1337soedC5S?invite=cr-MSwyVk8sMjU1MzE2MjUs) Comme pet 1, on ajoute un arrêt intermédiaire entre chaque Aller/retour (reste, /petstay)
+### PET 3
+Comme pet 2, on ajoute un heal du pet lorsqu'il est proche.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56wYaW5SuEpw5/vpqbKvoXf?invite=cr-MSxyQWosMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [PET3](https://medal.tv/games/wow-classic/clips/75438386/d1337xZZBAWU?invite=cr-MSxMemUsMjU1MzE2MjUs) Comme pet 2, on ajoute un heal du pet lorsqu'il est proche
+### PET 4
+On détermine un point d'ancrage, puis aller retour sur point d'ancrage.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56x4qBrjNQLZL/vpSDzaR3G?invite=cr-MSxzdXEsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [PET4](https://medal.tv/games/wow-classic/clips/75438774/d1337S0kzn4i?invite=cr-MSxHeG4sMjU1MzE2MjUs) On détermine un point d'ancrage, puis aller retour sur point d'ancrage.
+### PET 5
+Aller/retour entre deux cibles sans changer de cible principale.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/56y5e7u6XpRfP/vpja9RBxZ?invite=cr-MSxiNjQsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [PET5](https://medal.tv/games/wow-classic/clips/75442668/d1337RgdDbJu?invite=cr-MSxMRDgsMjU1MzE2MjUs) Aller/retour entre deux cibles sans changer de cible principale
+## Déplacements
 
-### Déplacements
-- [DEPLACEMENT1](https://medal.tv/games/wow-classic/clips/75604542/d1337Z4QdjWz?invite=cr-MSxlV24sMjU1MzE2MjUs) Tourner autour de la cible sans retarder l'autoshot
+### DEPLACEMENT 1
+Tourner autour de la cible sans retarder l'autoshot.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57ec6xEkZauJ4/vp4iaOocy?invite=cr-MSxTMEksMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [DEPLACEMENT2](https://medal.tv/games/wow-classic/clips/75609090/d1337Y6Dmj82?invite=cr-MSwwR1EsMjU1MzE2MjUs) Avant/Arriere en strafe gauche puis strafe droite sans retarder l'autoshot
+### DEPLACEMENT 2
+Avant/Arriere en strafe gauche puis strafe droite sans retarder l'autoshot.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57fnsXs_E7p86/vp0chGR8G?invite=cr-MSx6b0IsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [DEPLACEMENT3](https://medal.tv/games/wow-classic/clips/75610384/d1337VceBSq9?invite=cr-MSxvWGIsMjU1MzE2MjUs) Comme déplacement 1 mais on ajoute le tir des arcanes et le multishot
+### DEPLACEMENT 3
+Comme déplacement 1 mais on ajoute le tir des arcanes et le multishot.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57fIkCHwVN0lZ/vpCyqsTjK?invite=cr-MSxPdUQsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [DEPLACEMENT4](https://medal.tv/games/wow-classic/clips/75611273/d1337H5IO4FZ?invite=cr-MSxRQmosMjU1MzE2MjUs) Comme le 2 , on ajoute arcaneshot et multishot
+### DEPLACEMENT 4
+Comme deplacement 2, on ajoute arcaneshot et multishot.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57fWFOKVp4Ipt/vpZKrWrL6?invite=cr-MSxqZ3csMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [DEPLACEMENT5](https://medal.tv/games/wow-classic/clips/75616252/d1337SYfn7BY?invite=cr-MSxvSXIsMjU1MzE2MjUs) Comme deplacement 1 avec aller/retour du pet
+### DEPLACEMENT 5
+Comme deplacement 1 avec aller/retour du pet.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57heYjPUwRqy7/vpcOeCvD4?invite=cr-MSxoUTAsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
-- [DEPLACEMENT6](https://medal.tv/games/wow-classic/clips/75617267/d1337VnAtJEI?invite=cr-MSxFVUQsMjU1MzE2MjUs) Comme deplacement 2 avec aller/retour du pet
-### Rotation
+### DEPLACEMENT 6 
+Comme deplacement 2 avec aller/retour du pet.
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/57hvlGBPJ8u3m/vp3dBpEXk?invite=cr-MSwzc0osMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
+
+## Rotation
 
 - [ROTATION1](https://medal.tv/games/wow-classic/clips/75602994/d133783JFKKT?invite=cr-MSxYdjEsMjU1MzE2MjUs) Rotation simple avec aller/retours simples
 
