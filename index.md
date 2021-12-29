@@ -6,6 +6,6 @@
 - [wishlist](https://sun42.github.io/wishlist)
 - [ui](https://sun42.github.io/ui)
 
-- [logs analyszer](https://ironforge.pro/analyzer/)
-- [strat](raidplan.io)
+- [logs analyzer](https://ironforge.pro/analyzer/)
+- [draw](raidplan.io)
 - [teron minigame](https://teron.faldorn.net)
