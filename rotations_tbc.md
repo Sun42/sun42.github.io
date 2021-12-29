@@ -26,7 +26,8 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
     2:3 (2 tir assuré pour 3 autos)
  - Les buffs de hâte se cummulant de manière multiplicative, il faut les stacker au maximum ex: carquois 1.15 & talent BM 1.20  => 1.38
 
-## Ressources 
+## Ressources
+
     - [Diziet theorycraft](https://diziet559.github.io/rotationtools/)
     - [kanja rotation guide](https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles)
     - [enthozz rotation guide](https://www.youtube.com/watch?v=1QHxA6kZFVQ)
