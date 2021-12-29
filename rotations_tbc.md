@@ -34,9 +34,9 @@ Le nom des rotations représente le nombre de fois que le sort est utilisé dans
 
  | EWS    | Nom     | Tir Assuré | Auto | Arcane | Multi | Note |
  | -------| --------| ---------- | ---- | ------ | ----- | ---- |
- | > 2.3s | 5:4:1:1 | 5 | 4 | 1 | 1 | Short frenc, la rotation de base sans hate pour Survie |
- | | 5:5:1:1 | 5 | 5 | 1 | 1 ||
- | | 5:6:1:1 | 5 | 6 | 1 | 1 ||
+ | > 2.3s | 5:4:1:1 | 5 | 4 | 1 | 1 | La rotation de base pour spé survie |
+ | De 2.3s à 1.9s | 5:5:1:1 | 5 | 5 | 1 | 1 | La rotation de base pour spé bm |
+ | De 1.9s à 1.6s | 5:6:1:1 | 5 | 6 | 1 | 1 | BM avec proc quickshot |
  | | 1:1     | 1 | 1 |   |   ||
  | | 2:3     | 2 | 3 |   |   ||
  | | 1:2     | 1 | 2 |   |   ||
@@ -56,9 +56,7 @@ Le nom des rotations représente le nombre de fois que le sort est utilisé dans
 
 ---------------------------------------------------------------------------------------
 
-| Nom                   | EWS          | Note                                                                                     |
-| :-------------------- | :----------- | :--------------------------------------------------------------------------------------- |
-| French 5:5:1:1        | 2.3s à 1.9s  | La rotation de base sans hate pour BM. Privilegier des armes >= 2.9 pour cette rotation. |
+### 5:5:1:1 (French)
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUbMD65EmRH2/vpNqncp94?invite=cr-MSxycnIsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
@@ -72,9 +70,7 @@ Le nom des rotations représente le nombre de fois que le sort est utilisé dans
 
 ---------------------------------------------------------------------------------------
 
-| Nom                   | EWS          | Note           |
-| :-------------------- | :----------- | :------------- |
-| Long French 5:6:1:1   | 1.9s à 1.6s  | Quickshot proc |
+### 5:6:1:1 (Long french)
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUnEzkN_Ju00/vpqEbbQkG?invite=cr-MSxFZ3AsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
