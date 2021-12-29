@@ -1,7 +1,7 @@
 ## Intro
 
 Il existe différentes rotations en fonction de la vitesse d'attaque.
---
+
 Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
 
 Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun downtime (temps perdu à rien faire), ni clipping.
@@ -42,14 +42,11 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT' allow='autoplay' allowfullscreen></iframe> 
 
----------------------------------------------------------------------------------------
-Auto - Tir assuré - multi
-
-Auto - Tir assuré
-
-Auto - Tir assuré - Arcane
-
-Auto - Tir assuré - Tir assuré
+| --- | --- | --- |
+| Auto | Tir assuré | multi |
+| Auto | Tir assuré | |
+| Auto | Tir assuré | Arcane |
+| Auto | Tir assuré | Tir assuré |
 
 ---------------------------------------------------------------------------------------
 
