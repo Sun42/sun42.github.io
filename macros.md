@@ -147,7 +147,7 @@
 ```
 #showtooltip
 /targetenemy [noexists][dead][help]
-/cast [@mouseover,harm] Morsure de serpent; Morsure de serpe
+/cast [@mouseover,harm] Morsure de serpent; Morsure de serpent
 ```
 
 ### Morsure de la vipère
