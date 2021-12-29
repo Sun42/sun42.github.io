@@ -40,9 +40,11 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 | --------------------- | :------ |  ----------------------------------------|
 | Short french 5:4:1:1  | > 2.3  | La rotation de base sans hate pour Survie |
 
-<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT?invite=cr-MSxRNWQsNDIyNTEyODMs' allow='autoplay' allowfullscreen></iframe> 
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT' allow='autoplay' allowfullscreen></iframe> 
 
-[![Short french]({image-url})]({https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT?invite=cr-MSxRNWQsNDIyNTEyODMs} "Short french 5:4:1:1")
+--
+
+[![Short french]]({https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT} "Short french 5:4:1:1")
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
 
