@@ -42,6 +42,7 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT?invite=cr-MSxRNWQsNDIyNTEyODMs' allow='autoplay' allowfullscreen></iframe> 
 
+[![Short french]({image-url})]({https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT?invite=cr-MSxRNWQsNDIyNTEyODMs} "Short french 5:4:1:1")
 ---------------------------------------------------------------------------------------
 Auto - Tir assuré - multi
 
