@@ -19,7 +19,7 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
  - Privilegier des armes >= 2.9 pour les rotations complexes
  - Possible de downrank multishot rank 1 pour eco de la mana
  - Possible de ne faire que de la rotation 1:1 si problèmes de mana
- - EWS (effective weapon speed) : ranged weapon speed / 1.15 (carquois)/ 1.20 (talent BM)
+ - EWS (effective weapon speed) en secondes : ranged weapon speed / 1.15 (carquois)/ 1.20 (talent BM)
  - Nom des rotations INTERPRETE QU'EST-CE A DIRE QUE CECI
     Correspond au nombre de fois que le sort est utilisé dans le cycle
     Assuré : Auto :  Arcane : Multi
@@ -38,9 +38,9 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ---------------------------------------------------------------------------------------
 
-| Rotation              | EWS    | note                                      |
-| --------------------- | :------ |  ----------------------------------------|
-| Short french 5:4:1:1  | > 2.3  | La rotation de base sans hate pour Survie |
+| Nom              | EWS    | Note                                           |
+| :-------------------- | :------ | :--------------------------------------- |
+| Short french 5:4:1:1  | > 2.3s  | La rotation de base sans hate pour Survie |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT' allow='autoplay' allowfullscreen></iframe>
 
@@ -53,24 +53,19 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ---------------------------------------------------------------------------------------
 
-### French 5:5:1:1
+| Nom              | EWS    | Note                                           |
+| :-------------------- | :------ |  :-------------------------------------- |
+| French 5:5:1:1  | 2.3s à 1.9s  | La rotation de base sans hate pour BM. Privilegier des armes >= 2.9 pour cette rotation. |
 
-EWS: > 1.9
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clips/61942946/d1337WDYME5x' allow='autoplay' allowfullscreen></iframe>
 
-video: https://medal.tv/clips/61942946/d1337WDYME5x
-
-note: La rotation de base sans hate pour BM.  Privilegier des armes >= 2.9 pour cette rotation.
-
----------------------------------------------------------------------------------------
-Auto - Tir assuré - multi
-
-Auto - Tir assuré
-
-Auto - Tir assuré - Arcane
-
-Auto - Tir assuré
-
-Auto - Tir assuré
+|  |  |  |
+| :--- | :--- | :--- |
+| Auto | Tir assuré | Tir multiple |
+| Auto | Tir assuré ||
+| Auto | Tir assuré | Arcane       |
+| Auto | Tir assuré ||
+| Auto | Tir assuré ||
 
 ---------------------------------------------------------------------------------------
 ### Long French 5:6:1:1
