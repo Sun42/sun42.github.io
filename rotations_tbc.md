@@ -30,22 +30,20 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Les rotations
 
-Nom des rotations Correspond au nombre de fois que le sort est utilisé dans le cycle
+Le nom des rotations représente le nombre de fois que le sort est utilisé dans le cycle
 
-  | Nom | Tir Assuré | Auto | Arcane | Multi |
-  | ---     | --- | --- | --- | --- |
-  | 5:4:1:1 | 5 | 4 | 1 | 1 |
-  | 5:5:1:1 | 5 | 5 | 1 | 1 |
-  | 5:6:1:1 | 5 | 6 | 1 | 1 |
-  | 1:1     | 1 | 1 |   |   |
-  | 2:3     | 2 | 3 |   |   |
-  | 1:2     | 1 | 2 |   |   |
+ | EWS    | Nom     | Tir Assuré | Auto | Arcane | Multi | Note |
+ | -------| --------| ---------- | ---- | ------ | ----- | ---- |
+ | > 2.3s | 5:4:1:1 | 5 | 4 | 1 | 1 | Short frenc, la rotation de base sans hate pour Survie |
+ | | 5:5:1:1 | 5 | 5 | 1 | 1 ||
+ | | 5:6:1:1 | 5 | 6 | 1 | 1 ||
+ | | 1:1     | 1 | 1 |   |   ||
+ | | 2:3     | 2 | 3 |   |   ||
+ | | 1:2     | 1 | 2 |   |   ||
    
 ---------------------------------------------------------------------------------------
 
-| Nom                   | EWS     | Note                                      |
-| :-------------------- | :------ | :---------------------------------------- |
-| Short french 5:4:1:1  | > 2.3s  | La rotation de base sans hate pour Survie |
+### 5:4:1:1 (Short French)
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bWfkIjMegxva/vpnFMYfNT' allow='autoplay' allowfullscreen></iframe>
 
