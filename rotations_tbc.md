@@ -54,10 +54,11 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 ---------------------------------------------------------------------------------------
 
 | Nom                   | EWS          | Note                                                                                     |
-| :-------------------- | :------      |  :--------------------------------------                                                 |
+| :-------------------- | :----------- | :--------------------------------------------------------------------------------------- |
 | French 5:5:1:1        | 2.3s à 1.9s  | La rotation de base sans hate pour BM. Privilegier des armes >= 2.9 pour cette rotation. |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUbMD65EmRH2/vpNqncp94?invite=cr-MSxycnIsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
+
 |  |  |  |
 | :--- | :--- | :--- |
 | Auto | Tir assuré | Tir multiple |
