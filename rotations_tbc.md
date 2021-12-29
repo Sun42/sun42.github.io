@@ -4,7 +4,7 @@ Il existe différentes rotations en fonction de la vitesse d'attaque.
 
 Le but est de placer le plus de sort entre les tirs auto en retardant le moins possible les tir auto (clipping).
 
-Dans des conditions parfaites on a un EWS de 1.5 secondes et on pourrait caler un tir assuré entre chaque autoshot sans aucun downtime (temps entre la fin d'un sort et le debut du tir automatique), ni clipping.
+Dans des conditions parfaites avec EWS de 1.5 secondes et on pourrait placer un tir assuré entre chaque autoshot sans aucun downtime (temps entre la fin d'un sort et le debut du tir automatique), ni clipping.
 
 Lorsque notre ews est plus lent que 1.5s on va caler des sorts entre les tir assuré et les autoshots pour eviter les downtime.
 
@@ -71,7 +71,7 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 | Nom                   | EWS          | Note           |
 | :-------------------- | :----------- | :------------- |
-| Long French 5:6:1:1   | 1.9 à 1.6    | Quickshot proc |
+| Long French 5:6:1:1   | 1.9s à 1.6s  | Quickshot proc |
 
 <iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUnEzkN_Ju00/vpqEbbQkG?invite=cr-MSxFZ3AsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
@@ -85,14 +85,16 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 | Auto | Tir assuré   ||
 
 ---------------------------------------------------------------------------------------
-### 1:1
 
-EWS: 1.6 à 1.3
+| Nom   | EWS          | Note           |
+| :---- | :----------- | :------------- |
+| 1:1   | 1.6s à 1.3s  ||
 
-video: https://medal.tv/clips/61943163/d1337JVMmMt4
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/clip/4bUfhKWIObzkT/vpryLy1bS?invite=cr-MSxJWDQsMjU1MzE2MjUs' allow='autoplay' allowfullscreen></iframe>
 
----------------------------------------------------------------------------------------
-Auto - Tir assuré
+|  |  |
+| :--- | :--- |
+| Auto | Tir assuré |
 
 ---------------------------------------------------------------------------------------
 ### 2:3
