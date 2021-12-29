@@ -28,10 +28,10 @@ Lorsque notre ews est plus rapide que 1.5s, il arrive un moment ou caster un tir
 
 ## Ressources
 
-    - [Diziet theorycraft](https://diziet559.github.io/rotationtools/)
-    - [kanja rotation guide](https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles)
-    - [enthozz rotation guide](https://www.youtube.com/watch?v=1QHxA6kZFVQ)
-    - [bigbobbedboi rotation guide](https://www.youtube.com/watch?v=VftjEOtSnxw)
+- [Diziet theorycraft](https://diziet559.github.io/rotationtools/)
+- [kanja rotation guide](https://chasseur-bc.jimdofree.com/ma%C3%AEtrise-des-b%C3%AAtes-pve#Cycles)
+- [enthozz rotation guide](https://www.youtube.com/watch?v=1QHxA6kZFVQ)
+- [bigbobbedboi rotation guide](https://www.youtube.com/watch?v=VftjEOtSnxw)
 
 ## Les rotations
 
