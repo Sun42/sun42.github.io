@@ -22,40 +22,11 @@
 
 
 ## P3 
-## Tête
-![Absolute bis](https://wow.zamimg.com/images/wow/icons/large/inv_misc_bandana_03.jpg "Absolute bis")
-[vision maudite de sargeras](https://fr.tbc.wowhead.com/item=32235/vision-maudite-de-sargeras)
-
-
-Phase 3 Best In Slot Writeup 
-
-Read the entire post as it will include all the commonly asked questions such as 6% set, 9% set, "When and how can I transition to 4p T6?", etc.
-
-Starting in Phase 3 there are now two BiS gearsets depending on whether you are fighting a 6200 armor or 7700 armor boss. In Phase 3 this isn't as important yet as there arn't a large amount of ArP items yet and we can't get boss armor fully down to 0. The boss armor values for Hyjal + Black Temple are a near even split with there being 8 bosses with 6200 armor and 7 bosses with 7700 armor. 
-
-Phase 3 Best In Slot/Loot Prio/Wishlist Video Guide
-https://www.youtube.com/watch?v=hsIsJVIyOCE
-
-6200 Armor 6% absolute BiS: https://seventyupgrades.com/set/an5kYy3JwF1QJHUo7cZgUU
-
+Week 1 Shadow Resistance Set: https://seventyupgrades.com/set/wVk48YfWoUWSRfGZtBUb4F
+offset https://seventyupgrades.com/set/xdDjWqWWwoudz4cw3H3LcQ
 7700 Armor 6% absolute BiS: https://seventyupgrades.com/set/5vUK48Dw8f6Td2p5QzGNWr
-
 6200/7700 Armor 9% BiS: https://seventyupgrades.com/set/ckcvRcJD4BNKkTBEVhkvoU
-
 Best Speedrun: https://seventyupgrades.com/set/beuLDXwnUrE6rB7Yjgsnei
-
-Week 1 Shadow Resistance Set: https://seventyupgrades.com/set/wVk48YfWoUWSRfGZtBUb4F Will be updated after PTR
-
-If you can not achieve 1850 rating for the PvP Mainhand then stick to the 7700 armor set for all bosses. 
-----------------------------------------------------------------------------------------------------------------------
-When can I transition from Tier 5 to Tier 6?
-
-Transitioning into Tier 6 early on is rather simple. You can transition early into 2p T6 with either Shoulders/Gloves or Shoulders/Legs for a quick 2p T6. You can also transition easy into 4p T6 as shown below:
-
-2p early(Fists) https://seventyupgrades.com/set/sYt6FADwNXS7n8MXG1wqid
-2p early(Twinblade) https://seventyupgrades.com/set/qMkLkfQ2qQP36TUdxPSWVX
- https://seventyupgrades.com/set/tnCM4E3JTwZu1BSwDAiXRm
- https://seventyupgrades.com/set/kP5FjtvddvsKFNv6DLUYGW 
 
 ## P5
 https://seventyupgrades.com/set/r6K5fW4ivcjawpATK6VgVW
