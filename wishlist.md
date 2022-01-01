@@ -57,3 +57,5 @@ Transitioning into Tier 6 early on is rather simple. You can transition early in
  https://seventyupgrades.com/set/tnCM4E3JTwZu1BSwDAiXRm
  https://seventyupgrades.com/set/kP5FjtvddvsKFNv6DLUYGW 
 
+## P5
+https://seventyupgrades.com/set/r6K5fW4ivcjawpATK6VgVW
