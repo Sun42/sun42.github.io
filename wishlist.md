@@ -8,6 +8,11 @@
 [PRIO2](https://tbc.wowhead.com/item=32505/madness-of-the-betrayer)
 ![MADNESS](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_charm.jpg)
 
+[PRIO3](https://tbc.wowhead.com/item=32497/stormrage-signet-ring)
+![STORMRAGE RING](https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_ring_67.jpg)
+
+[PRIO4](https://tbc.wowhead.com/item=32248/halberd-of-desolation)
+![POLEARM](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_halberd_20.jpg)
 ---
 
 
