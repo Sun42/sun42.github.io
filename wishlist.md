@@ -44,3 +44,23 @@ https://seventyupgrades.com/set/r6K5fW4ivcjawpATK6VgVW
 |blueSockets|16.40|
 |yellowSockets|16.40|
 |rangedDps|7.5|
+
+
+### CSV
+```
+Stat,Value
+agility,2.05
+attackPower,1
+rangedAttackPower,0.875
+hitRating,1.5
+critRating,1.55
+hasteRating,1.625
+armorPen,0.3
+rangedHitRating,1.375
+rangedCritRating,1.5
+metaSockets,60.325
+redSockets,16.40
+blueSockets,16.40
+yellowSockets,16.40
+rangedDps,7.5
+```
