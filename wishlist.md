@@ -2,12 +2,11 @@
    
 [BIS WISHLIST](https://seventyupgrades.com/set/gLwwnGBk8FMqHqkJd7vn2N)
 
-[PRIO1](https://tbc.wowhead.com/item=32336/black-bow-of-the-betrayer)
+[PRIO1 RP BIS](https://tbc.wowhead.com/item=32336/black-bow-of-the-betrayer)
 ![Illidan BOW](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_bow_31.jpg)
 
 [PRIO2](https://tbc.wowhead.com/item=32505/madness-of-the-betrayer)
 ![MADNESS](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_charm.jpg)
-
 
 ---
 
