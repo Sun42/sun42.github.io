@@ -1,12 +1,14 @@
-## P3 
+## P3 WISHLIST
    
 [BIS WISHLIST](https://seventyupgrades.com/set/gLwwnGBk8FMqHqkJd7vn2N)
 
 [PRIO1](https://tbc.wowhead.com/item=32336/black-bow-of-the-betrayer)
-![ALT TEXT](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_bow_31.jpg)
+![BOW](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_bow_31.jpg)
 
+[PRIO2](https://tbc.wowhead.com/item=32505/madness-of-the-betrayer)
+![MADNESS](https://wow.zamimg.com/images/wow/icons/large/spell_shadow_charm.jpg)
 
-
+---
 
 
 Week 1 Shadow Resistance Set: https://seventyupgrades.com/set/wVk48YfWoUWSRfGZtBUb4F
