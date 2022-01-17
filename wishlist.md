@@ -11,8 +11,8 @@
 [PRIO3](https://tbc.wowhead.com/item=32497/stormrage-signet-ring)
 ![STORMRAGE RING](https://wow.zamimg.com/images/wow/icons/large/inv_jewelry_ring_67.jpg)
 
-[PRIO4](https://tbc.wowhead.com/item=32248/halberd-of-desolation)
-![POLEARM](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_halberd_20.jpg)
+[PRIO4](https://tbc.wowhead.com/item=32336/black-bow-of-the-betrayer)
+![BOW](https://wow.zamimg.com/images/wow/icons/large/inv_weapon_bow_31.jpg)
 
 ---
 
