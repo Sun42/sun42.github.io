@@ -1,0 +1,5 @@
+- damage meter
+- wa buffs
+- wa fd resist
+- prat: lien cliquables
+- nameplates display at max ranged distance
