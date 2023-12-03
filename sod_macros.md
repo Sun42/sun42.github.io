@@ -14,6 +14,12 @@
 /cast [nopet] Ressusciter le familier; [@pet, dead] Ressusciter le familier; [@pet, nodead] Guérison du familier
 ```
 
+### Pêche
+```
+#showtooltip pêche
+/equip Canne à pêche de la famille Blump
+/use pêche
+```
 
 ### Nourrir
 ```
@@ -32,6 +38,7 @@
 /petautocastoff Célérité
 /petautocastoff Plongeon
 ```
+
 ### Retour sur point d'ancrage (précédement défini avec reste aka /petstay)
 ```
 /petpassive
@@ -41,12 +48,15 @@
 ```
 
 ### Attaque et Ordre de Tuer (il faut parfois spammer plusieurs fois la macro)
-```
+```ancienne
 /petattack [@mouseover, harm][]
-/cast Charge
+/cast [@mouseover, harm][harm] Charge
 /cast [@mouseover, harm][harm] Célérité
 /cast [@mouseover, harm][harm] Plongeon
-/cast [@pettarget,exists] Ordre de tuer
+```
+``` nouvelle
+/petattack [@mouseover, harm][]
+/cast [pet:Owl] Plongeon
 ```
 
 ## Qualité de vie
