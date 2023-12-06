@@ -25,8 +25,7 @@
 ```
 #showtooltip
 /cast [nocombat][pet] Nourrir le familier
-/use [nocombat][pet] $food
-
+/use [nocombat][pet] <food item>
 ```
 
 ### Retour sur perso
